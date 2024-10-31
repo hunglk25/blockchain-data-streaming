@@ -44,7 +44,7 @@ The project is designed with the following components:
     source venv/bin/activate
     ```
 
-4. Modify the file ```bash "Modify the file config/config.conf```
+4. Modify the file ```config/config.conf```
 
 5. Run Docker Compose to spin up the services:
     ```bash
